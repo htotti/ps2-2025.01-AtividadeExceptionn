@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"br.dev.joaquim","l":"App"},{"p":"br.dev.joaquim.bank","l":"BankAccount"},{"p":"br.dev.joaquim.exceptions","l":"InsufficientFoundsException"},{"p":"br.dev.joaquim","l":"UserInterface"}]
